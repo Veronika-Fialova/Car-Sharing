@@ -1,1 +1,31 @@
+:root {
+    --color-primary: #fff;
+    --color-brand: #FF0000;
+    --color-text-black: #000;
+    --color-text-grey: #6A6A6A;
+    --color-background: #28272C;
+    --color-shadow: #FF00004D;
+    --color-form-shadow: #D1D1D1;
+    --color-form-text-shadowm: #B2B2B2;
+    --font-nunito-sans: "Nunito-Sans", sans-serif;
+    --font-open-sans: "Open-Sans", sans-serif;
+    --button-radius: 40px;
+    --font-size-heading: 2.1875rem;
+    --font-size-text: 0,875rem;
+}
 
+* {
+    box-sizing: border-box;
+}
+
+/* --- HEADER --- */
+
+/* --- MAIN --- */
+
+/* --- BLOG --- */
+
+/* --- SERVICE --- */
+
+/* --- CONTACT --- */
+
+/* --- FOOTER --- */
